@@ -1,15 +1,21 @@
-# Aspiring Software Engineer and Creative
+# Portfolio
 
 ## Academic Programming
 ### Data Structures and Algorithms
-#### Introductory Java
+#### Java
 
 ### An Interdisplinary Approach to Computer Science
 #### Introductory Java
 - Atomic Matter
 
 ## Creative Stuff
+### Personal GameJam Project
+#### C#
+- Fragore <br>
+[itch.io Link](https://spectral575.itch.io/fragore)
 ### Animation
-- A Knight's Journey
-[Vimeo Link](https://www.riotgames.com/en/work-with-us/job/7254441/software-engineering-intern-summer-2026-remote-los-angeles-usa)
-
+- A Knight's Journey <br>
+[Vimeo Link](https://vimeo.com/943786002?share=copy&fl=sv&fe=ci)
+<br>
+- Intro Sequence and Credits for Student-made Shortfilm <br>
+[Google Drive Link]
