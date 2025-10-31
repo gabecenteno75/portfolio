@@ -1,5 +1,10 @@
-# portfolio
+# Aspiring Software Engineer and Creative
 
-### Academic Programming
+## Academic Programming
+### Data Structures and Algorithms
+#### Introductory Java
 
-### Creative Stuff
+### An Interdisplinary Approach to Computer Science
+#### Introductory Java
+
+## Creative Stuff
