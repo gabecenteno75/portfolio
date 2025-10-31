@@ -25,6 +25,8 @@
 <br>
 - Intro Sequence and Credits for Student-made Shortfilm <br>
 [Repo Link]
+![AniPic](/assets/img/DDintro.png)
+![AniPic](/assets/img/DDend.png)
 ### Creative Writing
 - The Things we Forget (Short Story)
 [PDF Link](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:d27e4e8f-ad51-453a-99b3-a1cb3ca400ce)
