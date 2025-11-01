@@ -1,23 +1,25 @@
 # Portfolio
 
 ## Academic Programming
+### Computer Graphics (JS & GLSL)
+- Ray Tracer: Implemented a simple Ray Tracer >br>
+![Animation Style 2](/assets/img/Box.png)
+- Mesh Processing: Implemented a simple editor with Mesh Processing operations <br>
+![Animation Style 2](/assets/img/TT2.png)
+- Image Processing: Implemented a simple "photoshop" style editor with filters <br>
+![Animation Style 2](/assets/img/photoEdit.png)
+
 ### Data Structures and Algorithms (Java)
+- Seam Carving: Implimented image resisizing which avoids distortion of the image
+- K-d Tree: Implemented a K-d tree using nearest neighbor search
+- Queues: Implemented collections using resizing arrays and linked lists
 
-### Computer Graphics
-- Image Processing
-
-- Mesh Processing
-
-- Ray-Tracing
-
-### An Interdisplinary Approach to Computer Science (Introductory Java)
-- Atomic Matter
-
-## Creative Stuff
+## Creative
 ### Personal GameJam Project (C#) (Unity)
 - Fragore <br>
 [itch.io Link](https://spectral575.itch.io/fragore) <br>
-
+![Animation Style 1](/assets/img/FragOne.png)
+![Animation Style 2](/assets/img/FragTwo.png)
 
 ### Animation
 - A Knight's Journey <br>
