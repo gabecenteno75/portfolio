@@ -28,7 +28,6 @@
 ![Animation Style 2](/assets/img/KJtwo.png)
 <br>
 - Intro Sequence and Credits for Student-made Shortfilm <br>
-[Repo Link]
 ![AniPic](/assets/img/DDintro.png)
 ![AniPic](/assets/img/DDend.png) <br>
 
