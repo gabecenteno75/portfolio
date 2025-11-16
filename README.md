@@ -1,15 +1,15 @@
 # Portfolio
 
 ## Academic Programming
-### Computer Graphics (JS & GLSL)
-- Ray Tracer: Implemented a simple Ray Tracer >br>
-![Animation Style 2](/assets/img/Box.png)
-- Mesh Processing: Implemented a simple editor with Mesh Processing operations <br>
-![Animation Style 2](/assets/img/TT2.png)
+### COS 426: Computer Graphics (JS & GLSL)
+- Rasterizer: Implemented a simple rasterizer with rendering and texture mapping <br>
+![Animation Style 2](/assets/img/DiabloPortfolio.png)
+- Ray Tracer: Implemented a simple Ray Tracer <br>
+![Animation Style 2](/assets/img/Perlin.png)
 - Image Processing: Implemented a simple "photoshop" style editor with filters <br>
 ![Animation Style 2](/assets/img/photoEdit.png)
 
-### Data Structures and Algorithms (Java)
+### COS 266: Data Structures and Algorithms (Java)
 - Seam Carving: Implimented image resisizing which avoids distortion of the image
 - K-d Tree: Implemented a K-d tree using nearest neighbor search
 - Queues: Implemented collections using resizing arrays and linked lists
